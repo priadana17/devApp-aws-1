@@ -5,3 +5,5 @@ Startup-ready web-skeleton
 Run the following command:
 ```
 mvn clean install
+
+#Test add text
